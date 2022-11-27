@@ -3,7 +3,7 @@ package pkg;
 public class SelectionSort {
 	
     public void main() {
-	int arr[] = {4, 3, 1, 5, 2};
+	int[] arr = {4, 3, 1, 5, 2};
         // arr: 정렬할 값들이 들어있는 배열
 
         for(int x=0; x<arr.length-1; x++){
